@@ -1,4 +1,4 @@
-#Proxy
+# Proxy
 
 The Proxy design pattern quite simply redirects functionality to a different object and often used to overcome expensive operations. Such as network or otherwise intensive operations. In a way, RPC can be seen as something similar.
 
