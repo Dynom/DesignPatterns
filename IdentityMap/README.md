@@ -4,6 +4,7 @@
 The Identity Map pattern is a very handy pattern that can be used to improve performance and by allowing less chance of integrity violations, because it allows only a single instance of an entity to be loaded at all times.
 
 The Identity Map pattern can be used in a variety of other patterns, such as (and not limited to):
+
 * Unit of Work
 * Data Mapper
 
